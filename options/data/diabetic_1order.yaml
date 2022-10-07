@@ -1,0 +1,4 @@
+dataset: diabetic
+order:
+  - [0,1,2,3,4]
+seed: [1993]
